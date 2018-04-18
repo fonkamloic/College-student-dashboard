@@ -5,7 +5,6 @@ Note: if the task is done we see this symbol - [x] before it and if it is not we
 
 ## TO DO List for the Front End Developer
 
-- 
 
 
 
