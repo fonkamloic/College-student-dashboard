@@ -54,13 +54,13 @@ $ git clone https://github.com/elombablessed/College-student-dashboard.git
  
   
  
- #### `step 3: cd in the repository`
+ #### `step 4: cd in the repository`
 
 ```bash
 $ cd College-student-dashboard
 ```
 
- #### `step 4: Install dependencies`
+ #### `step 5: Install dependencies`
 
 ##### In Linux Distros (Ubuntu, Kali Linux) && Windows
 
@@ -70,7 +70,7 @@ $ npm install
 
 
 
-#### `step 5:  run application`
+#### `step 6:  run application`
 
 ```bash
 $ npm run start
@@ -79,7 +79,7 @@ In browser, open [http://localhost:8080](http://localhost:8080)
 
 
 
-#### `step 6: add some files and commit(proposed your change) to  the github project`
+#### `step 7: add some files and commit(proposed your change) to  the github project`
 
 Due to  my laziness i will redirect you to a clearer explain on the web. [Staging the changes](https://githowto.com/staging_changes) and [Adding a file to a repository using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/).
 
