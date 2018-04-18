@@ -25,7 +25,7 @@ $ sudo apt-get install git
  ```
  Note: you should "yum" instead of "apt-get" for other distros.Depending on your package manager.(I don't really know much about other linux distribution).
  
-##### In Windows (Ubuntu, Kali Linux)
+##### In Windows 
  
 Just download and install [git](https://git-scm.com/download/win).
  
