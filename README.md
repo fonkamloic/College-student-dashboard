@@ -86,11 +86,11 @@ In browser, open [http://localhost:3000](http://localhost:3000)
 
 
 
-#### `step 6: add some files and commit(proposed your change) to  the github project github`
+#### `step 6: add some files and commit(proposed your change) to  the github project`
 
 Due to some my laziness i will redirect you to a clearer explain on the web. [Staging the changes](https://githowto.com/staging_changes) and [Adding a file to a repository using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/).
 
-finally to be fluent in using git, it is advisable to google your problems because it is really really really...... REALLY posiible that your problem has been solved elsewhere (and that doesn't go only for git).These are some good ressource to learn git
+finally to be fluent in using git, it is advisable to google your problems because it is really really really...... REALLY possible that your problem has been solved elsewhere (and that doesn't go only for git).These are some good ressource to learn git
 
 -  [Google](https://www.google.com)
 
