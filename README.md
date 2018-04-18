@@ -21,11 +21,13 @@ to contribute from you local machine you need to:
 
 #### `step 1: Download and install Git`
 
-##### In Linux Distros (Ubuntu, Kali)
+##### In Linux Distros (Ubuntu, Kali Linux)
 
 ```bash
-$ sudo apt-get install git //you should "yum" instead of "apt-get" for other distros.Depending on your package manager
+$ sudo apt-get install git 
  ```
- ##### In Windows (Ubuntu, Kali)
+ Note: you should "yum" instead of "apt-get" for other distros.Depending on your package manager.(I don't really know much about other linux distribution).
+ 
+ ##### In Windows (Ubuntu, Kali Linux)
  
  just download and install [git executable file](https://git-scm.com/download/win).
