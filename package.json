@@ -1,0 +1,24 @@
+{
+  "name": "college-student-dashboard",
+  "version": "1.0.0",
+  "description": "a dashboard which gives the student through a well defined intuitive interface all necessary infromation about his university life and this dashboard also acts as an interface between the student and the university ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elombablessed/College-student-dashboard.git"
+  },
+  "keywords": [
+    "college",
+    "student",
+    "dashboard"
+  ],
+  "author": "Arnol Fokam , Blessed Elomba",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/elombablessed/College-student-dashboard/issues"
+  },
+  "homepage": "https://github.com/elombablessed/College-student-dashboard#readme"
+}
