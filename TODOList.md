@@ -1,0 +1,16 @@
+# TO DO List
+this is a list keep track of all the task that we need to accomplish and a board to see if we have accomplish them.
+Note: if the task is done we see this symbol [x] next to it and if it is not we see []
+
+
+## TO DO List for the Front End Developer
+
+- 
+
+
+
+## TO DO List for the  Back End developer
+
+- Construct the skeleton of the server. [x]
+- Link the static files to the server.  []
+
