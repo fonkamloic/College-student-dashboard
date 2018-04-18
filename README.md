@@ -7,13 +7,17 @@ Note: More is still to be implemented but for now, let us just do the basics.
 
 The app is divided into two parts the ["Back end" and the "Front end"](https://en.wikipedia.org/wiki/Front_and_back_ends).The Fackend consist of a server written in nodeJS maintaining a close relationship with a database managed with in mySQL queries.The Front end has not yet been announced by the rest of the team but will surely be implemented with HTML ,CSS ,JAVASCRIPT (JQUERY, AJAX and some other JS libraries).
 
+
+
 ## Licensing
 
 The source code is licensed under GPL v3. License is available [here](/LICENSE).
 
+
+
 ## Contribution
 
-For now additional contributing to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github.
+For now additional contribution to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github.But still interested in contributing, email us at arnolfokam23@gmail.com
 
 ### Note to present contributors
 
@@ -33,6 +37,7 @@ $ sudo apt-get install git
 Just download and install [git](https://git-scm.com/download/win).
  
  
+
 #### `step 2: Download and install npm`
 
 ##### In Linux Distros (Ubuntu, Kali Linux)
@@ -55,13 +60,14 @@ $ git clone https://github.com/elombablessed/College-student-dashboard.git
  ```
  
   
+ 
  #### `step 3: cd in the repository`
 
 ```bash
 $ cd College-student-dashboard
 ```
 
- #### `step 3: Install dependencies
+ #### `step 4: Install dependencies
 
 ##### In Linux Distros (Ubuntu, Kali Linux) && Windows
 
@@ -70,7 +76,8 @@ $ npm install
 ``` 
 
 
-#### `step 4  run application`
+
+#### `step 5:  run application`
 
 ```bash
 $ npm run start
@@ -78,7 +85,8 @@ $ npm run start
 In browser, open [http://localhost:3000](http://localhost:3000)
 
 
-#### `step 4 add some files and commit(proposed your change) to  the github project github`
+
+#### `step 6: add some files and commit(proposed your change) to  the github project github`
 
 Due to some my laziness i will redirect you to a clearer explain on the web. [Staging the changes](https://githowto.com/staging_changes) and [Adding a file to a repository using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/).
 
