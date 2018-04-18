@@ -91,7 +91,7 @@ finally to be fluent in using git, it is advisable to google your problems becau
 
 -  [Git How To](https://githowto.com/)
 
--  [Git - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and .....
+-  [Git - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 
 ## Licensing
