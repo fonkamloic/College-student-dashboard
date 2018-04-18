@@ -82,7 +82,7 @@ $ npm install
 ```bash
 $ npm run start
 ```
-In browser, open [http://localhost:3000](http://localhost:3000)
+In browser, open [http://localhost:3000](http://localhost:8080)
 
 
 
