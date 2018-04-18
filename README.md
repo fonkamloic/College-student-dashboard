@@ -1,5 +1,7 @@
 # College-student-dashoard
-A student project web app which aim to provide, through an interactive dashboard, a well defined interface between the student and it's university.This in the view to ease the interaction between the student and the rest of it's unversity environment and vice versa.
+A student project web app which aim to provide, through an interactive dashboard, a well defined interface between the student and it's university there by enabling the students to register their courses, discuss with other student, view or publish latest news on the campus.
+
+Note: More is still to implemented but for now let us just do the basics. 
 
 
 ## Technical details
