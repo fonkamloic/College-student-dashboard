@@ -38,12 +38,12 @@ Just download and install [git](https://git-scm.com/download/win).
  
  
 
-#### `step 2: Download and install npm`
+#### `step 2: Download and install node and npm`
 
 ##### In Linux Distros (Ubuntu, Kali Linux)
 
 ```bash
-$ sudo apt-get install npm 
+$ sudo apt-get install npm nodejs-legacy
  ```
  
 ##### In Windows 
