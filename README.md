@@ -5,7 +5,7 @@ Note: More is still to be implemented but for now, let us just do the basics.
 
 ## Technical details
 
-The app is divided into two parts the ["Back end" and the "Front end"](https://en.wikipedia.org/wiki/Front_and_back_ends).The Fackend consist of a server written in nodeJS maintaining a close relationship with a database managed with in mySQL queries.The Front end has not yet been announced by the rest of the team but will surely be implemented with HTML CSS JAVASCRIPT (JQUERY AJAX and some other JS libraries).
+The app is divided into two parts the ["Back end" and the "Front end"](https://en.wikipedia.org/wiki/Front_and_back_ends).The Fackend consist of a server written in nodeJS maintaining a close relationship with a database managed with in mySQL queries.The Front end has not yet been announced by the rest of the team but will surely be implemented with HTML CSS JAVASCRIPT ( JQUERY AJAX and some other JS libraries).
 
 
 ## Contribution
@@ -41,7 +41,7 @@ $ sudo apt-get install npm nodejs-legacy
  
 ##### In Windows 
  
-Just download and install [nodeJS](https://nodejs.org/en/)(on the download page choose the LTS latest stable version ;) ).
+Just download and install [nodeJS](https://nodejs.org/en/) (on the download page choose the LTS latest stable version ;) ).
 
  
  #### `step 3: Clone the repository`
