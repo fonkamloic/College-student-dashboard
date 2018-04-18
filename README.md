@@ -38,6 +38,8 @@ Just download and install [git](https://git-scm.com/download/win).
 ```bash
 $ sudo apt-get install npm nodejs-legacy
  ```
+ Or you can just follow the instruction on [nodeJS website](https://nodejs.org/en/download/package-manager/) (preferable :-\ )
+ 
  
 ##### In Windows 
  
