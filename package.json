@@ -1,7 +1,7 @@
 {
   "name": "college-student-dashboard",
   "version": "1.0.0",
-  "description": "a dashboard which gives the student through a well defined intuitive interface all necessary infromation about his university life and this dashboard also acts as an interface between the student and the university ",
+  "description": "a dashboard which gives the student through a well defined intuitive interface all necessary infromation about his university life and this dashboard also acts as an interface between the student and the university",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
