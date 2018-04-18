@@ -8,13 +8,6 @@ Note: More is still to be implemented but for now, let us just do the basics.
 The app is divided into two parts the ["Back end" and the "Front end"](https://en.wikipedia.org/wiki/Front_and_back_ends).The Fackend consist of a server written in nodeJS maintaining a close relationship with a database managed with in mySQL queries.The Front end has not yet been announced by the rest of the team but will surely be implemented with HTML ,CSS ,JAVASCRIPT (JQUERY, AJAX and some other JS libraries).
 
 
-
-## Licensing
-
-The source code is licensed under GPL v3. License is available [here](/LICENSE).
-
-
-
 ## Contribution
 
 For now additional contribution to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github.But still interested in contributing, email us at arnolfokam23@gmail.com
@@ -100,3 +93,7 @@ finally to be fluent in using git, it is advisable to google your problems becau
 
 -  [Git - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and .....
 
+
+## Licensing
+
+The source code is licensed under GPL v3. License is available [here](/LICENSE).
