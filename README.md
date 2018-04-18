@@ -96,4 +96,4 @@ finally to be fluent in using git, it is advisable to google your problems becau
 
 ## Licensing
 
-The source code is licensed under GPL v3. License is available [here](/LICENSE).
+The source code is licensed under [GPL v3. License](/LICENSE).
