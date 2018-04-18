@@ -3,12 +3,12 @@ this is a list keep track of all the task that we need to accomplish and a board
 Note: if the task is done we see this ticked box before it and if it is not we see an empty box
 
 
-## TO DO List for the Front End Developer
+## TO DO List for the Front End Engineer
 
 
 
 
-## TO DO List for the  Back End developer
+## TO DO List for the  Back End Engineer
 
 - [x] Construct the skeleton of the server. 
 - [ ] Link the static files to the server. 
