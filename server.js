@@ -21,5 +21,5 @@ app.listen(port, (err) => {
     return console.log('something went expected', err)
   }
 
-  console.log(`server is listening on ${port}. "\ntry to open this link http://localhost:8080 in your browser" `)
+  console.log(`server is listening on ${port}. \ntry to open this link http://localhost:8080 in your browser`)
 })
