@@ -12,4 +12,4 @@ The source code is licensed under GPL v3. License is available [here](/LICENSE).
 
 ### Contribution
 
-For now contributing to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github but if you are still willing to help us, you can contact us directly.
+For now contributing to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github.
