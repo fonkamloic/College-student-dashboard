@@ -2,12 +2,12 @@ const express = require('express')
 const app = express()
 const port = 8080
 
-/* send this message for the broswer to display it at the place
+/* send this message to the broswer for it to be displayed at the place
  * of our html , css and js files. waiting for that lazy front 
  * end developer ;) 
  */
 app.get('/', (request, response) => {
-  response.send('Hello World!')
+  response.send('College Student Dashboard!')
 })
 
 /* initialize a server which listen on the port 8080 and in case 
@@ -21,5 +21,5 @@ app.listen(port, (err) => {
     return console.log('something went expected', err)
   }
 
-  console.log(`server is listening on ${port}`)
+  console.log(`server is listening on ${port}. "\ntry to open this link http://localhost:8080 in your browser" `)
 })
