@@ -10,7 +10,7 @@ The app is divided into two parts, the ["Back end" and the "Front end"](https://
 
 ## Contribution
 
-For now additional contribution to the project is unavailable due to the lack of maturity of the project and lack of experience of the developers in using Git and Github.But still interested in contributing, email us at arnolfokam23@gmail.com
+You are free to contribute in all aspects of the project.
 
 ### Note to present contributors
 
