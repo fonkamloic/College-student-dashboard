@@ -1,5 +1,5 @@
 # College-student-dashoard
-A student project web app which aim to provide, through an interactive dashboard, a means to share and inetract with other students from other unversities and there by permitting the to:
+A student project web app which aim to provide, through an interactive dashboard, a means to share and inetract with other students from other unversities and there by permitting them to:
 
 - Share resources with other students (documents ,answers and even laughs).
 - Discuss about a topic like "Google's New operating system".
