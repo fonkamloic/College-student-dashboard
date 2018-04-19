@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "a dashboard which gives the student through a well defined intuitive interface all necessary infromation about his university life and this dashboard also acts as an interface between the student and the university",
   "main": "server.js",
+  "dependencies": {
+    "express": "4.16.3",
+    "path": "0.12.7"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo npm install\"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
