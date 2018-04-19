@@ -3,7 +3,7 @@ A student project web app which aim to provide, through an interactive dashboard
 
 - Share resources with other students (documents ,answers and even laughs).
 - Discuss about a topic like "Google's New operating system".
-- Chat privately with other student.
+- Chat privately with other students.
 
 Note: More is still to be implemented but for now, let us just do the basics.
 
