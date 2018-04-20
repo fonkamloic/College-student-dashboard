@@ -12,7 +12,8 @@ Note: - if the task is done we see this ticked box before it and if it is not we
 
 - [x] Construct the skeleton of the server. 
 - [x] Link the static files to the server.
-- [ ] Link the server to mySQL database
+- [ ] Link the server to mySQL database (for sensitive data like user credentials etc)
+- [ ] Link the server to mongoDB database (for non-sensitive data like latest news etc)
 - [ ] Add security features to the web server such as TLS. 
 
 ## TO DO List for general tasks
