@@ -14,7 +14,7 @@ The app is divided into two parts, the ["Back end" and the "Front end"](https://
 
 ## Contribution
 
-You are free to contribute in all aspects of the project.
+For now due to lack of experience of the developers and the lack of maturity of the project.contribution are not yet accepted
 
 ### Note to present contributors
 
