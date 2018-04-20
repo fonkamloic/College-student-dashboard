@@ -24,3 +24,5 @@ Note: - if the task is done we see this ticked box before it and if it is not we
 - [ ] Create a  descriptionList.md file in each and every folder with the specified content accordind to the
       rules of descriptionList.md files (see descriptionList.md on the home directory)
 - [ ] Verify and correct the grammar in every file containing english.(comments etc)
+
+Very very very.... very important, always google your difficulties.
