@@ -22,5 +22,5 @@ Note: - if the task is done we see this ticked box before it and if it is not we
       through an interactive dashboard, a means to share and inetract with other students from other
       unversities or the same univerity".
 - [ ] Create a  descriptionList.md file in each and every folder with the specified content accordind to the
-      rules in of descriptionList.md files (see descriptionList.md on the home directory)
+      rules of descriptionList.md files (see descriptionList.md on the home directory)
 - [ ] Verify and correct the grammar in every file containing english.(comments etc)
