@@ -5,7 +5,7 @@ const port = 8080;
 
 //send this login html file for the browser to display it.
 app.get('/', (request, response) => {
-  response.sendFile(path.join(__dirname + '/login.html'))
+  response.sendFile(path.join(__dirname + '/public/html/login.html'))
 });
 
 //send the public folder to broswer but with name static
