@@ -14,7 +14,7 @@ The app is divided into two parts, the ["Back end" and the "Front end"](https://
 
 ## Contribution
 
-You are free to contribute in all aspects of the project.
+For now due to lack of experience of the developers and the lack of maturity of the project.contribution are not yet accepted
 
 ### Note to present contributors
 
@@ -89,7 +89,7 @@ In browser, open [http://localhost:8080](http://localhost:8080)
 
 Due to  my laziness i will redirect you to a clearer explanation on the web. [Staging the changes](https://githowto.com/staging_changes) and [Adding a file to a repository using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/).
 
-finally to be fluent in using git, it is advisable to google your problems because it is really really really...... REALLY possible that your problem has been solved elsewhere (and that doesn't go only for git).These are some good ressource to learn git
+finally to be fluent in using git, it is advisable to google your problems because it is really really really...... REALLY possible that your problem has been solved elsewhere (and that doesn't go only for git).These are some good ressources to learn git
 
 -  [Google](https://www.google.com)
 
