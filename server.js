@@ -1,6 +1,6 @@
 const express = require('express');
-const app = express();
 const path = require('path');
+const app = express();
 const port = 8080;
 
 //send this login html file for the browser to display it.
@@ -22,7 +22,6 @@ app.listen(port, (err) => {
     return console.log('something went expected', err)
   }
 
-
-
-  console.log(`server is listening on ${port}. \ntry to open this link http://localhost:8080 in your browser`)
+  console.log(`server is listening on ${port}.);
+  console.log( \ntry to open this link http://localhost:8080 in your browser`)
 });
